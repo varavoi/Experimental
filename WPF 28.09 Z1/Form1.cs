@@ -119,7 +119,7 @@ namespace WPF_28._09_Z1
 
         private void sqr_Click(object sender, EventArgs e)
         {
-
+            111111111111111111
         }
 
         private void calculate()
