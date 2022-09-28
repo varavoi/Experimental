@@ -115,6 +115,7 @@ namespace WPF_28._09_Z1
             a = double.Parse(Desc.Text);
            // Desc.Text = a.ToString() + "/";
             count = 4;
+            ааааааааааа
         }
 
         private void sqr_Click(object sender, EventArgs e)
